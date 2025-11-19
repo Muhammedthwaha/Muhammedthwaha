@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m, Muhammed Thaha Uwais.<br><br> I love creating new things ⚡<br><br>Turning imagination into reality 🚀<br><br>
+👋 I’m, Muhammed Thaha Uwais.<br><br>  I love creating new things ⚡<br><br> Turning imagination into reality 🚀<br><br>
 
 
 ## 🌐 Socials:
