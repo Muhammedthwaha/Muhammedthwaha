@@ -93,54 +93,54 @@
         <!-- ASCII Portrait - FULL WIDTH -->
         <g transform="translate(4, 40)">
             <text class="font-mono" font-size="10.5" fill="url(#accent-grad)" xml:space="preserve">
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.07s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.14s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.21s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@*+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@#,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.~-~@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@~:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;;@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.49s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@-=#&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;=@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;+@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.77s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@*:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@=&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,:::,.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.91s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-+***+++++=~~+++-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;%@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@;&#160;&#160;&#160;&#160;&#160;&#160;&#160;;******++**+*******=-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@.&#160;&#160;&#160;&#160;&#160;&#160;.*********++++++++++===&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.3s" fill="freeze" />@@@@@@@@@@@=&#160;&#160;&#160;&#160;&#160;&#160;&#160;=+++****+*****++++++===;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.19s" dur="0.3s" fill="freeze" />@@@@@@@@@@@=&#160;&#160;&#160;&#160;&#160;&#160;.**#%@@@@%##***#####**+=-&#160;&#160;&#160;&#160;&#160;&#160;&#160;.@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;#+~:,.:;~+##**##***=~;;-=,&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.33s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@:&#160;&#160;&#160;=*=;-~;,&#160;&#160;.;=**+~:&#160;&#160;&#160;.:,,-+&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@,&#160;&#160;*+==-;;,:-;;~#*=~-;-===*+~+&#160;&#160;&#160;&#160;=@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.47s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@#&#160;&#160;#+=;&#160;,:&#160;&#160;~&#160;;+#*=~.;&#160;&#160;;&#160;&#160;~~*.&#160;&#160;+@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.54s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@:*.+++*+=~----=*#+=~;-;:~;-==*.&#160;;@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.61s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@-*:+**##*+++*#+*#+=++==+=+*+=+,=;@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.68s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@*+:=**###**##**##*+=********+=;~#@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.75s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@+;-*+*###**+*+##*=++******++~;+@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.82s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@*+-++*******~,~+=:+*******++:~@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.89s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@%+~~+++*#%%%-&#160;&#160;&#160;&#160;&#160;.=%%#***+~:@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@#+-=++**~::&#160;&#160;&#160;.&#160;&#160;&#160;&#160;&#160;,=*++=;+@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.03s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@+-++*:&#160;&#160;&#160;..,;;;:,&#160;&#160;&#160;*++-=@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.10s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@%-==+-,-:-==~~=~;~-;+=~-@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.17s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@%-+===++~;-~~-~=++++=-%@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.24s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@%@@*~~-=*++==~;;;~+++=+=:+@@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.31s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@,&#160;,#-:;-=+*#***##*=-:,~;*@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.38s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@%@@-&#160;&#160;;#+~,&#160;&#160;.,:::,::&#160;&#160;&#160;,~#&#160;&#160;@@@@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.45s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@=&#160;&#160;&#160;-#++=-:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:-+=*&#160;&#160;&#160;+*@@@@@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.52s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@%*&#160;,&#160;&#160;**+++===~~~~~==+++++*,&#160;&#160;&#160;&#160;&#160;&#160;=%@@@@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.59s" dur="0.3s" fill="freeze" />@@@@@@@@@@@*&#160;&#160;&#160;&#160;;=&#160;~#++++++++*****+++++*&#160;&#160;&#160;&#160;.,&#160;&#160;&#160;.-#@@@@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.66s" dur="0.3s" fill="freeze" />@@@@@@@@@#=;&#160;;&#160;-;~.&#160;#+++++=+++++++++**+=&#160;&#160;&#160;..;&#160;*;:,&#160;&#160;:*@@@@@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.73s" dur="0.3s" fill="freeze" />@@@@@@%=--,.&#160;&#160;.=-:&#160;&#160;,**+++======+++++++,&#160;&#160;.&#160;&#160;&#160;&#160;:&#160;;:;,&#160;&#160;&#160;.+%@@@</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.80s" dur="0.3s" fill="freeze" />@@@#-&#160;&#160;&#160;~:&#160;&#160;&#160;&#160;&#160;-~&#160;&#160;&#160;&#160;.=+=======+++++++;&#160;&#160;,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,~;&#160;&#160;&#160;&#160;&#160;:+</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.87s" dur="0.3s" fill="freeze" />#=:&#160;.&#160;&#160;&#160;+&#160;:&#160;&#160;&#160;&#160;&#160;.&#160;&#160;&#160;.&#160;&#160;;~+====++++++=;&#160;.;,&#160;,&#160;&#160;&#160;.&#160;&#160;&#160;&#160;&#160;;.-.&#160;&#160;&#160;&#160;.</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.94s" dur="0.3s" fill="freeze" />.&#160;&#160;&#160;-&#160;,;-.;&#160;&#160;&#160;&#160;&#160;&#160;,&#160;&#160;&#160;&#160;&#160;:,-+=====+++=~,,&#160;:&#160;,&#160;&#160;&#160;&#160;:&#160;&#160;.&#160;,,.~&#160;&#160;&#160;&#160;&#160;.</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.3s" fill="freeze" />&#160;;&#160;,.&#160;,~,:;&#160;&#160;&#160;.&#160;&#160;&#160;..&#160;&#160;&#160;&#160;&#160;,-+====+++=~-.&#160;&#160;;&#160;&#160;&#160;&#160;&#160;.&#160;&#160;&#160;&#160;,&#160;:;&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.08s" dur="0.3s" fill="freeze" />&#160;;&#160;,&#160;&#160;;-&#160;;:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;+.~=+++++++#+:&#160;&#160;:&#160;..&#160;&#160;&#160;,&#160;&#160;&#160;&#160;,.--&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.15s" dur="0.3s" fill="freeze" />&#160;,&#160;.&#160;&#160;;;.-;&#160;&#160;&#160;&#160;;..&#160;&#160;:&#160;&#160;&#160;+&#160;~*++**+##;&#160;&#160;&#160;&#160;.&#160;~&#160;&#160;&#160;&#160;.&#160;&#160;&#160;&#160;.,;,&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.22s" dur="0.3s" fill="freeze" />,-&#160;-,:~~-==::;:~,~..@=&#160;&#160;.&#160;-++++=*-&#160;&#160;&#160;.&#160;.:=+,&#160;,:;&#160;:&#160;:,-~;&#160;&#160;&#160;&#160;.&#160;</tspan>
-                <tspan x="0" dy="10.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.29s" dur="0.3s" fill="freeze" />;;,;;;--~~~;::,;,::..&#160;.&#160;.;~=====;&#160;.&#160;&#160;;:,---..,::.,.;;~~-..,,:,</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.07s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.14s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.21s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@@@@@@@*+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@@@#,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.~-~@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@~:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;;@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.49s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@-=#&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;=@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;+@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.77s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@*:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@=&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,:::,.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.91s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-+***+++++=~~+++-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;%@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@;&#160;&#160;&#160;&#160;&#160;&#160;&#160;;******++**+*******=-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@.&#160;&#160;&#160;&#160;&#160;&#160;.*********++++++++++===&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.3s" fill="freeze" />@@@@@@@@@@@=&#160;&#160;&#160;&#160;&#160;&#160;&#160;=+++****+*****++++++===;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.19s" dur="0.3s" fill="freeze" />@@@@@@@@@@@=&#160;&#160;&#160;&#160;&#160;&#160;.**#%@@@@%##***#####**+=-&#160;&#160;&#160;&#160;&#160;&#160;&#160;.@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;#+~:,.:;~+##**##***=~;;-=,&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.33s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@:&#160;&#160;&#160;=*=;-~;,&#160;&#160;.;=**+~:&#160;&#160;&#160;.:,,-+&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@,&#160;&#160;*+==-;;,:-;;~#*=~-;-===*+~+&#160;&#160;&#160;&#160;=@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.47s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@#&#160;&#160;#+=;&#160;,:&#160;&#160;~&#160;;+#*=~.;&#160;&#160;;&#160;&#160;~~*.&#160;&#160;+@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.54s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@:*.+++*+=~----=*#+=~;-;:~;-==*.&#160;;@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.61s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@-*:+**##*+++*#+*#+=++==+=+*+=+,=;@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.68s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@*+:=**###**##**##*+=********+=;~#@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.75s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@+;-*+*###**+*+##*=++******++~;+@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.82s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@*+-++*******~,~+=:+*******++:~@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.89s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@%+~~+++*#%%%-&#160;&#160;&#160;&#160;&#160;.=%%#***+~:@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@#+-=++**~::&#160;&#160;&#160;.&#160;&#160;&#160;&#160;&#160;,=*++=;+@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.03s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@+-++*:&#160;&#160;&#160;..,;;;:,&#160;&#160;&#160;*++-=@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.10s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@%-==+-,-:-==~~=~;~-;+=~-@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.17s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@@@%-+===++~;-~~-~=++++=-%@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.24s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@%@@*~~-=*++==~;;;~+++=+=:+@@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.31s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@@@,&#160;,#-:;-=+*#***##*=-:,~;*@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.38s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@%@@-&#160;&#160;;#+~,&#160;&#160;.,:::,::&#160;&#160;&#160;,~#&#160;&#160;@@@@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.45s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@@@=&#160;&#160;&#160;-#++=-:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:-+=*&#160;&#160;&#160;+*@@@@@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.52s" dur="0.3s" fill="freeze" />@@@@@@@@@@@@@%*&#160;,&#160;&#160;**+++===~~~~~==+++++*,&#160;&#160;&#160;&#160;&#160;&#160;=%@@@@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.59s" dur="0.3s" fill="freeze" />@@@@@@@@@@@*&#160;&#160;&#160;&#160;;=&#160;~#++++++++*****+++++*&#160;&#160;&#160;&#160;.,&#160;&#160;&#160;.-#@@@@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.66s" dur="0.3s" fill="freeze" />@@@@@@@@@#=;&#160;;&#160;-;~.&#160;#+++++=+++++++++**+=&#160;&#160;&#160;..;&#160;*;:,&#160;&#160;:*@@@@@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.73s" dur="0.3s" fill="freeze" />@@@@@@%=--,.&#160;&#160;.=-:&#160;&#160;,**+++======+++++++,&#160;&#160;.&#160;&#160;&#160;&#160;:&#160;;:;,&#160;&#160;&#160;.+%@@@</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.80s" dur="0.3s" fill="freeze" />@@@#-&#160;&#160;&#160;~:&#160;&#160;&#160;&#160;&#160;-~&#160;&#160;&#160;&#160;.=+=======+++++++;&#160;&#160;,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,~;&#160;&#160;&#160;&#160;&#160;:+</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.87s" dur="0.3s" fill="freeze" />#=:&#160;.&#160;&#160;&#160;+&#160;:&#160;&#160;&#160;&#160;&#160;.&#160;&#160;&#160;.&#160;&#160;;~+====++++++=;&#160;.;,&#160;,&#160;&#160;&#160;.&#160;&#160;&#160;&#160;&#160;;.-.&#160;&#160;&#160;&#160;.</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.94s" dur="0.3s" fill="freeze" />.&#160;&#160;&#160;-&#160;,;-.;&#160;&#160;&#160;&#160;&#160;&#160;,&#160;&#160;&#160;&#160;&#160;:,-+=====+++=~,,&#160;:&#160;,&#160;&#160;&#160;&#160;:&#160;&#160;.&#160;,,.~&#160;&#160;&#160;&#160;&#160;.</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.3s" fill="freeze" />&#160;;&#160;,.&#160;,~,:;&#160;&#160;&#160;.&#160;&#160;&#160;..&#160;&#160;&#160;&#160;&#160;,-+====+++=~-.&#160;&#160;;&#160;&#160;&#160;&#160;&#160;.&#160;&#160;&#160;&#160;,&#160;:;&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.08s" dur="0.3s" fill="freeze" />&#160;;&#160;,&#160;&#160;;-&#160;;:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;+.~=+++++++#+:&#160;&#160;:&#160;..&#160;&#160;&#160;,&#160;&#160;&#160;&#160;,.--&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.15s" dur="0.3s" fill="freeze" />&#160;,&#160;.&#160;&#160;;;.-;&#160;&#160;&#160;&#160;;..&#160;&#160;:&#160;&#160;&#160;+&#160;~*++**+##;&#160;&#160;&#160;&#160;.&#160;~&#160;&#160;&#160;&#160;.&#160;&#160;&#160;&#160;.,;,&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.22s" dur="0.3s" fill="freeze" />,-&#160;-,:~~-==::;:~,~..@=&#160;&#160;.&#160;-++++=*-&#160;&#160;&#160;.&#160;.:=+,&#160;,:;&#160;:&#160;:,-~;&#160;&#160;&#160;&#160;.&#160;</tspan>
+                <tspan x="0" dy="10.5" textLength="390" lengthAdjust="spacingAndGlyphs" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.29s" dur="0.3s" fill="freeze" />;;,;;;--~~~;::,;,::..&#160;.&#160;.;~=====;&#160;.&#160;&#160;;:,---..,::.,.;;~~-..,,:,</tspan>
 
             </text>
             
@@ -227,77 +227,77 @@
 
                 <g transform="translate(93.0, 0)" class="skill-pill" opacity="0">
                     <animate attributeName="opacity" to="1" begin="2.6s" dur="0.4s" fill="freeze" />
-                    <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                    <rect width="37.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
                         <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.6s" dur="2s" />
+                    </rect>
+                    <text x="18.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">C</text>
+                </g>
+
+                <g transform="translate(138.5, 0)" class="skill-pill" opacity="0">
+                    <animate attributeName="opacity" to="1" begin="2.7s" dur="0.4s" fill="freeze" />
+                    <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.7s" dur="2s" />
                     </rect>
                     <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">HTML5</text>
                 </g>
 
-                <g transform="translate(176.5, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="2.7s" dur="0.4s" fill="freeze" />
+                <g transform="translate(222.0, 0)" class="skill-pill" opacity="0">
+                    <animate attributeName="opacity" to="1" begin="2.8s" dur="0.4s" fill="freeze" />
                     <rect width="66.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.7s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.8s" dur="2s" />
                     </rect>
                     <text x="33.0" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">CSS3</text>
                 </g>
 
-                <g transform="translate(250.5, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="2.8s" dur="0.4s" fill="freeze" />
-                    <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.8s" dur="2s" />
+                <g transform="translate(296.0, 0)" class="skill-pill" opacity="0">
+                    <animate attributeName="opacity" to="1" begin="2.9s" dur="0.4s" fill="freeze" />
+                    <rect width="123.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.9s" dur="2s" />
                     </rect>
-                    <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">MySQL</text>
+                    <text x="61.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">JavaScript</text>
                 </g>
 
-                <g transform="translate(334.0, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="2.9s" dur="0.4s" fill="freeze" />
+                <g transform="translate(427.0, 0)" class="skill-pill" opacity="0">
+                    <animate attributeName="opacity" to="1" begin="3.0s" dur="0.4s" fill="freeze" />
                     <rect width="104.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.9s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.0s" dur="2s" />
                     </rect>
                     <text x="52.0" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Postgres</text>
                 </g>
 
-                <g transform="translate(446.0, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="3.0s" dur="0.4s" fill="freeze" />
-                    <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.0s" dur="2s" />
-                    </rect>
-                    <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Figma</text>
-                </g>
-
-                <g transform="translate(529.5, 0)" class="skill-pill" opacity="0">
+                <g transform="translate(539.0, 0)" class="skill-pill" opacity="0">
                     <animate attributeName="opacity" to="1" begin="3.1s" dur="0.4s" fill="freeze" />
                     <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
                         <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.1s" dur="2s" />
                     </rect>
-                    <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Canva</text>
+                    <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Figma</text>
                 </g>
 
                 <g transform="translate(0, 38)" class="skill-pill" opacity="0">
                     <animate attributeName="opacity" to="1" begin="3.2s" dur="0.4s" fill="freeze" />
-                    <rect width="85.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                    <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
                         <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.2s" dur="2s" />
+                    </rect>
+                    <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Canva</text>
+                </g>
+
+                <g transform="translate(83.5, 38)" class="skill-pill" opacity="0">
+                    <animate attributeName="opacity" to="1" begin="3.3s" dur="0.4s" fill="freeze" />
+                    <rect width="85.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.3s" dur="2s" />
                     </rect>
                     <text x="42.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Pandas</text>
                 </g>
 
-                <g transform="translate(93.0, 38)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="3.3s" dur="0.4s" fill="freeze" />
-                    <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.3s" dur="2s" />
-                    </rect>
-                    <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Numpy</text>
-                </g>
-
                 <g transform="translate(176.5, 38)" class="skill-pill" opacity="0">
                     <animate attributeName="opacity" to="1" begin="3.4s" dur="0.4s" fill="freeze" />
-                    <rect width="123.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                    <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
                         <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.4s" dur="2s" />
                     </rect>
-                    <text x="61.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Matplotlib</text>
+                    <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">NumPy</text>
                 </g>
 
-                <g transform="translate(307.5, 38)" class="skill-pill" opacity="0">
+                <g transform="translate(260.0, 38)" class="skill-pill" opacity="0">
                     <animate attributeName="opacity" to="1" begin="3.5s" dur="0.4s" fill="freeze" />
                     <rect width="56.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
                         <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.5s" dur="2s" />
@@ -305,20 +305,20 @@
                     <text x="28.25" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Git</text>
                 </g>
 
-                <g transform="translate(372.0, 38)" class="skill-pill" opacity="0">
+                <g transform="translate(324.5, 38)" class="skill-pill" opacity="0">
                     <animate attributeName="opacity" to="1" begin="3.6s" dur="0.4s" fill="freeze" />
-                    <rect width="104.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                    <rect width="85.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
                         <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.6s" dur="2s" />
                     </rect>
-                    <text x="52.0" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Power BI</text>
+                    <text x="42.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">GitHub</text>
                 </g>
 
-                <g transform="translate(484.0, 38)" class="skill-pill" opacity="0">
+                <g transform="translate(417.5, 38)" class="skill-pill" opacity="0">
                     <animate attributeName="opacity" to="1" begin="3.7s" dur="0.4s" fill="freeze" />
-                    <rect width="123.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                    <rect width="104.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
                         <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.7s" dur="2s" />
                     </rect>
-                    <text x="61.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">JavaScript</text>
+                    <text x="52.0" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Power BI</text>
                 </g>
 
                 <g transform="translate(0, 76)" class="skill-pill" opacity="0">
