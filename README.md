@@ -34,9 +34,9 @@ Turning imagination into reality 🚀
 
 ### ✍️ Random Dev Quote
 
-> "Language systems stand on a tripod. There's the language, there's the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things."
+> "Innovation distinguishes between a leader and a follower."
 > 
-> — L. Peter Deutsch
+> — Steve Jobs
 
 <br />
 
