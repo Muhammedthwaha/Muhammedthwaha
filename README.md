@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Muhammed Thaha Uwais GitHub Profile Hero" src="./light.svg">
-  </picture>
+  <img alt="Muhammed Thaha Uwais GitHub Profile Hero" src="./dark.svg">
 </div>
 
 <br />
