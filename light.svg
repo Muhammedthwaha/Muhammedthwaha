@@ -169,7 +169,7 @@
                 <tspan clip-path="url(#typing-mask-1)" class="text-primary">Computer Science Engineering graduate</tspan>
                 
                 <tspan x="0" dy="28" fill="url(#accent-grad)" font-weight="bold"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.9;1" dur="2.7s" fill="freeze"/>&gt;&#160;</tspan>
-                <tspan clip-path="url(#typing-mask-2)" class="text-primary">IT Support Analyst &amp; QA Tester</tspan>
+                <tspan clip-path="url(#typing-mask-2)" class="text-primary">QA Engineer and IT Support Analyst</tspan>
                 
                 <tspan x="0" dy="28" fill="url(#accent-grad)" font-weight="bold"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.9;1" dur="4.5s" fill="freeze"/>&gt;&#160;</tspan>
                 <tspan clip-path="url(#typing-mask-3)" class="text-primary">Full Stack Developer</tspan>
@@ -187,22 +187,22 @@
         <!-- Details -->
         <g transform="translate(40, 255)" font-size="15">
             <text x="0" y="0" class="text-muted" opacity="0">
-                <animate attributeName="opacity" to="1" begin="7s" dur="0.5s" fill="freeze"/>
+                <animate attributeName="opacity" to="1" begin="1.5s" dur="0.5s" fill="freeze"/>
                 <tspan font-weight="600" class="text-primary">&#x1F4CD;&#160;Location:</tspan>
                 <tspan class="text-muted">&#160;Doha, Qatar</tspan>
             </text>
             <text x="0" y="28" class="text-muted" opacity="0">
-                <animate attributeName="opacity" to="1" begin="7.3s" dur="0.5s" fill="freeze"/>
+                <animate attributeName="opacity" to="1" begin="1.7s" dur="0.5s" fill="freeze"/>
                 <tspan font-weight="600" class="text-primary">&#x1F393;&#160;Education:</tspan>
                 <tspan class="text-muted">&#160;B.Tech in CSE (First Class)</tspan>
             </text>
             <text x="0" y="56" class="text-muted" opacity="0">
-                <animate attributeName="opacity" to="1" begin="7.6s" dur="0.5s" fill="freeze"/>
+                <animate attributeName="opacity" to="1" begin="1.9s" dur="0.5s" fill="freeze"/>
                 <tspan font-weight="600" class="text-primary">&#x1F3AF;&#160;Focus:</tspan>
                 <tspan class="text-muted">&#160;QA, IT Support, Data Science, Python</tspan>
             </text>
             <text x="0" y="84" class="text-muted" opacity="0">
-                <animate attributeName="opacity" to="1" begin="7.9s" dur="0.5s" fill="freeze"/>
+                <animate attributeName="opacity" to="1" begin="2.1s" dur="0.5s" fill="freeze"/>
                 <tspan font-weight="600" class="text-primary">&#x2709;&#xFE0F;&#160;Email:</tspan>
                 <tspan class="text-muted">&#160;muhammedthahauwais@gmail.com</tspan>
             </text>
@@ -211,113 +211,129 @@
         <!-- Tech Stack (NO AWS) -->
         <g transform="translate(40, 380)">
             <text x="0" y="0" class="text-primary" font-size="18" font-weight="700" opacity="0">
-                <animate attributeName="opacity" to="1" begin="8.2s" dur="0.5s" fill="freeze"/>
+                <animate attributeName="opacity" to="1" begin="2.3s" dur="0.5s" fill="freeze"/>
                 Tech Stack
             </text>
             
             <g transform="translate(0, 18)">
 
                 <g transform="translate(0, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="8.5s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="2.5s" dur="0.4s" fill="freeze" />
                     <rect width="85.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="8.5s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.5s" dur="2s" />
                     </rect>
                     <text x="42.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Python</text>
                 </g>
 
                 <g transform="translate(93.0, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="8.6s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="2.6s" dur="0.4s" fill="freeze" />
                     <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="8.6s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.6s" dur="2s" />
                     </rect>
                     <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">HTML5</text>
                 </g>
 
                 <g transform="translate(176.5, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="8.7s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="2.7s" dur="0.4s" fill="freeze" />
                     <rect width="66.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="8.7s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.7s" dur="2s" />
                     </rect>
                     <text x="33.0" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">CSS3</text>
                 </g>
 
                 <g transform="translate(250.5, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="8.8s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="2.8s" dur="0.4s" fill="freeze" />
                     <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="8.8s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.8s" dur="2s" />
                     </rect>
                     <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">MySQL</text>
                 </g>
 
                 <g transform="translate(334.0, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="8.9s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="2.9s" dur="0.4s" fill="freeze" />
                     <rect width="104.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="8.9s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="2.9s" dur="2s" />
                     </rect>
                     <text x="52.0" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Postgres</text>
                 </g>
 
                 <g transform="translate(446.0, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="9.0s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="3.0s" dur="0.4s" fill="freeze" />
                     <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="9.0s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.0s" dur="2s" />
                     </rect>
                     <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Figma</text>
                 </g>
 
                 <g transform="translate(529.5, 0)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="9.1s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="3.1s" dur="0.4s" fill="freeze" />
                     <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="9.1s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.1s" dur="2s" />
                     </rect>
                     <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Canva</text>
                 </g>
 
                 <g transform="translate(0, 38)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="9.2s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="3.2s" dur="0.4s" fill="freeze" />
                     <rect width="85.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="9.2s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.2s" dur="2s" />
                     </rect>
                     <text x="42.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Pandas</text>
                 </g>
 
                 <g transform="translate(93.0, 38)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="9.3s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="3.3s" dur="0.4s" fill="freeze" />
                     <rect width="75.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="9.3s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.3s" dur="2s" />
                     </rect>
                     <text x="37.75" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Numpy</text>
                 </g>
 
                 <g transform="translate(176.5, 38)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="9.4s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="3.4s" dur="0.4s" fill="freeze" />
                     <rect width="123.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="9.4s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.4s" dur="2s" />
                     </rect>
                     <text x="61.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Matplotlib</text>
                 </g>
 
                 <g transform="translate(307.5, 38)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="9.5s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="3.5s" dur="0.4s" fill="freeze" />
                     <rect width="56.5" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="9.5s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.5s" dur="2s" />
                     </rect>
                     <text x="28.25" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Git</text>
                 </g>
 
                 <g transform="translate(372.0, 38)" class="skill-pill" opacity="0">
-                    <animate attributeName="opacity" to="1" begin="9.6s" dur="0.4s" fill="freeze" />
+                    <animate attributeName="opacity" to="1" begin="3.6s" dur="0.4s" fill="freeze" />
                     <rect width="104.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
-                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="9.6s" dur="2s" />
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.6s" dur="2s" />
                     </rect>
                     <text x="52.0" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Power BI</text>
+                </g>
+
+                <g transform="translate(484.0, 38)" class="skill-pill" opacity="0">
+                    <animate attributeName="opacity" to="1" begin="3.7s" dur="0.4s" fill="freeze" />
+                    <rect width="123.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.7s" dur="2s" />
+                    </rect>
+                    <text x="61.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">JavaScript</text>
+                </g>
+
+                <g transform="translate(0, 76)" class="skill-pill" opacity="0">
+                    <animate attributeName="opacity" to="1" begin="3.8s" dur="0.4s" fill="freeze" />
+                    <rect width="123.0" height="28" rx="14" fill="#FFFFFF" stroke="rgba(15,23,42,0.08)" stroke-width="1.5">
+                        <animate attributeName="stroke" values="rgba(15,23,42,0.08);#06B6D4;rgba(15,23,42,0.08)" begin="3.8s" dur="2s" />
+                    </rect>
+                    <text x="61.5" y="18" class="text-primary font-mono" font-size="12" font-weight="500" text-anchor="middle">Playwright</text>
                 </g>
 
             </g>
         </g>
         
         <!-- Bottom accent line -->
-        <rect x="40" y="494" width="620" height="1" fill="url(#accent-grad)" opacity="0.3">
+        <rect x="40" y="532" width="620" height="1" fill="url(#accent-grad)" opacity="0.3">
             <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite" />
         </rect>
     </g>
